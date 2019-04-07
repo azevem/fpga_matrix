@@ -1,0 +1,39 @@
+# migen
+https://github.com/m-labs/migen
+install python3 setuptools
+python3 setup.py install in migen
+configure pythonpath for migen
+
+
+sudo apt
+build_essentials
+libboost-dev
+liboost1.65-all-dev
+qt5-default
+libftdi-dev
+gcc
+g++
+cmake
+pyton3-setuptools
+python3-dev
+python3-pip
+python3-tk
+python3-lxml
+python3-six
+libboost-phython-dev
+
+#yosys
+https://github.com/cliffordwolf/yosys.git
+follow the readme instructions for dependencies
+do: make config-gcc
+make
+
+#OR
+add-apt-repository ppa:saltmakrell/ppa
+update
+install yosys
+
+
+#insted of arachne we'll install nextpnr
+https://github.com/YosysHQ/nextpnr.git
+follow readme instructiosn

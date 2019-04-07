@@ -1,0 +1,10 @@
+# project build and auxiliary files
+project/build/
+# project library files for IDE code completion
+migen_git/
+migen
+# machine information about existing docker install
+icetools/install_docker
+# pycharm IDE workspace/project
+.idea/
+fpga_matrix.e4p
